@@ -50,8 +50,8 @@ I have hands-on experience building personal projects, freelancing, working in a
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
 ![GPT](https://img.shields.io/badge/-GPT-05122A?style=flat&logo=)
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)
-[![Figma](https://img.shields.io/badge/Figma-View%20on%20Figma-F24E1E?logo=figma&style=for-the-badge)](https://www.figma.com/)
-[![Photoshop](https://img.shields.io/badge/Photoshop-Open%20in%20Photoshop-31A8FF?logo=adobe-photoshop&style=for-the-badge)](https://www.adobe.com/products/photoshop.html)
+![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)
+![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elVengador&layout=compact)
 <!--
