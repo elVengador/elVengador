@@ -19,11 +19,13 @@ I have hands-on experience building personal projects, freelancing, working in a
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)
 ![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular)
+![Astro](https://img.shields.io/badge/-Astro-05122A?style=flat&logo=astro)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-05122A?style=flat&logo=graphql)
 ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)
 ![Storybook](https://img.shields.io/badge/-Storybook-05122A?style=flat&logo=storybook)
 ![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)
 ![Styled Components](https://img.shields.io/badge/-Styled_Components-05122A?style=flat&logo=styled-components)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-05122A?style=flat&logo=tailwind-css)
 
 
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
@@ -33,6 +35,7 @@ I have hands-on experience building personal projects, freelancing, working in a
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)
 ![Redis](https://img.shields.io/badge/-Redis-05122A?style=flat&logo=redis)
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)
+![Typesense](https://img.shields.io/badge/-Typesense-05122A?style=flat&logo=typesense)
 
 
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
