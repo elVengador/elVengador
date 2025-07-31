@@ -18,6 +18,7 @@ I have hands-on experience building personal projects, freelancing, working in a
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)
+![Svelte](https://img.shields.io/badge/-Svelte-05122A?style=flat&logo=svelte)
 ![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular)
 ![Astro](https://img.shields.io/badge/-Astro-05122A?style=flat&logo=astro)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-05122A?style=flat&logo=graphql)
