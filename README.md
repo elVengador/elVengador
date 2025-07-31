@@ -8,7 +8,7 @@
 <h1 align="center">Hi 👋, My name is Jimy</h1>
 
 I'm a **T-shaped Frontend developer** with horizontal knowledge in Backend, QA, DevOps, UI, and UX. My preferred library is React.
-I have hands-on experience building personal projects, freelancing, working in a SaaS company, and contributing to startups.
+I have hands-on experience building personal projects, freelancing, working in a SaaS company, contributing to startups and implementing A/B Tasting.
 
 ## My Skills
 
