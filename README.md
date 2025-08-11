@@ -5,9 +5,9 @@
 <!-- - 📫 How to reach me ... -->
 
 
-<h1 align="center">Hi 👋, my name is Jimy</h1>
+<h1 align="center">My name is Jimy, I'm a T-shaped Software Engineer</h1>
 
-I'm a **T-shaped Software Engineer, Specialized in Frontend (Javascript, React)** and Horizontal knowledge Backend, QA, DevOps, UI/UX.
+Specialized in Frontend (Javascript, React) and Horizontal knowledge Backend, QA, DevOps, UI/UX.
 I have hands-on experience building personal projects, freelancing, working in a SaaS company, contributing to startups and implementing A/B Tasting.
 
 ## My Skills
